@@ -19,6 +19,6 @@ namespace snake_game1
     public void  CreateFood()
     {
         Random rnd =  new Random();
-    }
+    }a
    }
 }
